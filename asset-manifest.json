@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/static/css/main.fe87163c.css",
+    "main.js": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/static/js/main.d75cf6ca.js",
+    "static/js/453.37753ddd.chunk.js": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/static/js/453.37753ddd.chunk.js",
+    "index.html": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/index.html",
+    "main.fe87163c.css.map": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/static/css/main.fe87163c.css.map",
+    "main.d75cf6ca.js.map": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/static/js/main.d75cf6ca.js.map",
+    "453.37753ddd.chunk.js.map": "/Divithkumar3/To_do-List-using-Reactjs-useReducer/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe87163c.css",
+    "static/js/main.d75cf6ca.js"
+  ]
+}
