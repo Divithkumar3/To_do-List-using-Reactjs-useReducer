@@ -1,0 +1,36 @@
+.div{
+  text-align: center;
+  position: relative;
+  top: 50px;
+  font-size: 30px;
+  background-color: blue;
+  color: aliceblue;
+}
+input{
+  font-size: 30px;
+}
+.but{
+  border: rgb(247, 71, 206) solid 5px;
+  background-color: rgb(247, 71, 206);
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 600;
+ row-gap: 30px;
+ color: black;
+}
+.Del{
+  background-color: red;
+  border: red solid 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.com{
+  background-color: greenyellow;
+  border:greenyellow solid 5px;
+  cursor: pointer;
+  font-size: 20px;
+} 
+ol, ul {
+  list-style-position: inside;
+  text-align: center;
+}
